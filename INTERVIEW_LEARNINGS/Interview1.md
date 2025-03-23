@@ -1,4 +1,4 @@
-# This is the first interview that I started seeing from Anurag Procodrr for react interview 
+i# This is the first interview that I started seeing from Anurag Procodrr for react interview 
 
 ## Question 1) How can we render two components without using react fragments and div ?
 

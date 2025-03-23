@@ -10,6 +10,7 @@
 
 **Approach**: Used Two pointer approach to solve the question.
 
+
 ### Question 2: Palindrome Check
 
 **Approach**: Used Two pointer approach to solve.

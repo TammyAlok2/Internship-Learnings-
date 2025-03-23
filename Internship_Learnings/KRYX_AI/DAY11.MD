@@ -6,4 +6,4 @@
 ## Learnings : 
  - Learn about how to integrate fastapi with mongodb 
  - Done crud operation in it.
- - 
+ - Done some work on hubspot
